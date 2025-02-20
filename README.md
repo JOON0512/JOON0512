@@ -1,4 +1,4 @@
-## 🦊nebelung830 is about my cat I used to live with for 15 yrs
+## About Me 🦊
 
 🌱 I’m currently learning Computer Architecture(microarchitecture), Compiler Optimization, and Network Infrastructures. 
 
